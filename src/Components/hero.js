@@ -12,7 +12,7 @@ export default function Hero_Section() {
             >
                 <h2 className="font-bold text-4xl underline">Hello World!</h2>
                 <p className="text-center ">
-                    Hello, everyone... I'm Ahum. I'm a programmer and this is my website! View my latest blogs
+                    Hello, everyone... I&apos;m Ahum. I&apos;m a programmer and this is my website! View my latest blogs
                     for free templates, projects, tutorials, and much more!{' '}
                     <a href="././Blogs.js" className="underline text-green-600 dark:text-green-400 font-medium">
                         Latest blogs
