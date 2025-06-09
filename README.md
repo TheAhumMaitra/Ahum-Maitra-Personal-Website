@@ -22,7 +22,7 @@ It’s a place where I share my projects, tutorials, templates, and personal jou
 - 🧩 Modular component-based layout
 - 📰 Blog links and portfolio-ready navigation
 - 🎨 Clean UI using ShadCN and MUI
-and much more will come
+  and much more will come
 
 ---
 
@@ -33,3 +33,4 @@ git clone https://github.com/your-username/the-reasons-of-smiles.git
 cd the-reasons-of-smiles
 npm install
 npm run dev
+```
