@@ -6,7 +6,7 @@ export default function Post() {
         <p className="text-base">
           Text Text Text Text
         </p>
-        <button className="mt-8 px-4 py-2 bg-green-600 hover:bg-green-700 text-white rounded dark:bg-green-500 dark:hover:bg-green-600">
+        <button className="cursor-pointer mt-8 px-4 py-2 bg-green-600 hover:bg-green-700 text-white rounded dark:bg-green-500 dark:hover:bg-green-600">
           Read More!
         </button>
       </div>
