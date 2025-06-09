@@ -1,6 +1,8 @@
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import First_name_magic from './first_name_magic';
+import Link from 'next/link';
+
 
 export default function Hero_Section() {
     return (
@@ -14,7 +16,7 @@ export default function Hero_Section() {
                 <p className="text-center max-w-2xl px-2">
                     Hello, everyone... I&apos;m Ahum. I&apos;m a programmer and this is my website! View my latest blogs
                     for free templates, projects, tutorials, and much more!{' '}
-                    <a href="/Blogs" className="underline text-green-600 dark:text-green-400 font-medium">
+                    <a href="Blogs" className="underline text-green-600 dark:text-green-400 font-medium">
                         Latest blogs
                     </a>
                 </p>
